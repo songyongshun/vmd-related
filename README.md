@@ -1,2 +1,2 @@
 # vmd-related
-used with vmd
+scripts used with vmd
